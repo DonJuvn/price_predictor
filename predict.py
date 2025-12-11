@@ -15,7 +15,7 @@ def predict_phone_price(features: dict) -> float:
 
 # Пример использования
 new_phone = {
-    'battery_power': 1500,
+    'battery_power': 200,
     'blue': 1,
     'clock_speed': 2.4,
     'dual_sim': 1,
